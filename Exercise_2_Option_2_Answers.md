@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tic-Tac-Toe or Noughts and Crosses, is a simple and classic two-player game played on a `3x3` grid. Players take turns placing their allotted symbol (`X` or `O`) on the grid's empty spaces. The goal is to form a line of three of your symbols horizontally, vertically, or diagonally. 
+Tic-Tac-Toe or Noughts and Crosses, is a simple and classic two-player game played on a `3x3` grid. Players take turns placing their allotted symbol (`X` or `O`) on the grid's empty spaces. The goal is to form a straight line of three with your symbols horizontally, vertically, or diagonally. 
 
 ## Purpose
 
@@ -27,7 +27,7 @@ The following are the rules for playing the Tic-Tac-Toe game. 
 Ensure that the following prerequisites are met before you begin the game:
 
 - Draw a grid of `3x3` squares.
-- Decide who will use `X` and who will use `O`. 
+- The players must choose a symbol, which can be either `X` or `O`. 
 - Determine the first player. To decide who goes first, you can flip a coin, play rock-paper-scissors, or use any agreed-upon method.
 
 ### Start the Game
