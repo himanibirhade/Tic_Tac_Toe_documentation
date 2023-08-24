@@ -82,7 +82,7 @@ The following is a sample of how to play the Tic-Tac-Toe game.
 
    ![Player 2 places their mark in the middle of the first row and wins with a horizontal line in the first row](https://github.com/himanibirhade/Tic_Tac_Toe_documentation/blob/main/Example_6.png)
 
-
+Player 2 (`O`) wins this game.
 
 
 
